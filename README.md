@@ -1,4 +1,4 @@
-# KMJ Bank System
+# Simple-Banking-System-with-Python-Dictionaries
 
 Welcome to the KMJ Bank System! This is a simple command-line banking application written in Python. It allows users to register, log in, deposit money, withdraw money, check their balance, and transfer money between accounts.
 
@@ -23,18 +23,18 @@ These instructions will help you set up and run the project on your local machin
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/kmj-bank-system.git
+    git@github.com:kalanamanu/Simple-Banking-System-with-Python-Dictionaries.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd kmj-bank-system
+    cd Simple-Banking-System-with-Python-Dictionaries
     ```
 
 ### Usage
 
 1. **Run the script:**
     ```sh
-    python bank_system.py
+    demo.py
     ```
 
 2. **Follow the on-screen instructions:**
