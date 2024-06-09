@@ -41,6 +41,18 @@ These instructions will help you set up and run the project on your local machin
     - **Register**: If you are a new user, type `register` and follow the prompts to create a new account.
     - **Login**: If you already have an account, type `login` and enter your username and password.
 
+### Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Acknowledgments
+
+This project was created for educational purposes to demonstrate basic Python programming concepts and command-line interactions.
+
 ### Example
 
 Here is an example of how to interact with the system:
@@ -63,3 +75,4 @@ Login Successful!
 5. Exit
 Enter your action: 3
 Your current account balance is: 1000
+
